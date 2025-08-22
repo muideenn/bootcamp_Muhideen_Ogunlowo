@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hw03-utils"
+version = "0.1.0"
+description = "Utilities for Stage 03 Python Fundamentals"
+requires-python = ">=3.9"
+dependencies = ["numpy", "pandas", "matplotlib"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["hw03_utils*"]

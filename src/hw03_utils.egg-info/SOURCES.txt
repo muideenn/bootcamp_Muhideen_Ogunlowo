@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/hw03_utils/__init__.py
+src/hw03_utils/core.py
+src/hw03_utils.egg-info/PKG-INFO
+src/hw03_utils.egg-info/SOURCES.txt
+src/hw03_utils.egg-info/dependency_links.txt
+src/hw03_utils.egg-info/requires.txt
+src/hw03_utils.egg-info/top_level.txt

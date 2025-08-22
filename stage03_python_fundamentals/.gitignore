@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/processed/*
+data/*.csv
+!data/processed/.gitkeep
+figs/*
+!figs/.gitkeep
+.env
+.venv/
+.env.*
+.DS_Store
+.vscode/
+.idea/
