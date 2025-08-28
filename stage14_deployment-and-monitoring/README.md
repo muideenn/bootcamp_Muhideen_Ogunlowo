@@ -7,4 +7,4 @@ This folder contains the required deliverables for **Stage 14**:
 - `handoff/handoff_plan.md` (optional)
 - `docs/stage14_deployment-and-monitoring_homework-sheet.pdf` (assignment prompt)
 
-Place this folder at the root of your repo as `stage14_deployment-and-monitoring/` before committing.
+
