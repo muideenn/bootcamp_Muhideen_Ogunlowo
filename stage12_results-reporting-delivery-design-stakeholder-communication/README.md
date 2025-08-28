@@ -18,7 +18,7 @@ python -m pip install -r requirements.txt  # optional; matplotlib/pandas only
 jupyter notebook notebooks/stage12_demo.ipynb
 ```
 
-## Push just this folder to Git
+## Pushing just this folder to Git
 ```bash
 # From the repository root
 git add stage12_results-reporting-delivery-design-stakeholder-communication
