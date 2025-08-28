@@ -9,3 +9,6 @@ __pycache__/
 .env
 .DS_Store
 .ipynb_checkpoints/
+
+# macOS cruft
+.DS_Store
