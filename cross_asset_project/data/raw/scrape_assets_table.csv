@@ -1,0 +1,4 @@
+Symbol,Asset,WeightHint
+EQ,Equity Index,0.6
+BD,Bond Index,0.3
+CM,Commodity Basket,0.1
